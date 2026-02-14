@@ -12,7 +12,7 @@ The government wants to know how these factors affect a student's academic succe
 
 The National Center for Educational Statistics offers many long-term studies on education. The datasets contain categorical data (like sex, race, religion, region), continuous variables (like GPA, math test score, school sense of belonging, school engagement, and socioeconomic score), and ordinal data (like socioeconomic quintile and family income level).
 
-**Source**: High School Longitudinal Study of 2009 (`hsls_17_student_pets_sr_v1_0.sav`)
+**Source**: High School Longitudinal Study of 2009
 
 The dataset describes students that started high school in 2009 and studied them throughout their high school years and into college. The dataset contains information about the student (GPA, math test scores, sense of belonging, sense of engagement, race, sex...), but also their socioeconomic status, family income, parent education, and many more.
 
